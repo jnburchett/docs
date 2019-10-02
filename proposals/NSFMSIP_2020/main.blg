@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_8)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: nsf.bst
+Database file #1: ../../references.bib
+Warning--empty pages in asee_peer_31030
+You've used 13 entries,
+            2925 wiz_defined-function locations,
+            750 strings with 11683 characters,
+and the built_in function-call counts, 16944 in all, are:
+= -- 1173
+> -- 2094
+< -- 17
++ -- 784
+- -- 771
+* -- 1888
+:= -- 3145
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 326
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 403
+empty$ -- 481
+format.name$ -- 786
+if$ -- 3119
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 14
+newline$ -- 43
+num.names$ -- 52
+pop$ -- 324
+preamble$ -- 1
+purify$ -- 309
+quote$ -- 0
+skip$ -- 332
+stack$ -- 0
+substring$ -- 329
+swap$ -- 176
+text.length$ -- 15
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 114
+warning$ -- 1
+while$ -- 49
+width$ -- 0
+write$ -- 143
+(There was 1 warning)
